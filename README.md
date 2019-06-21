@@ -1,0 +1,1 @@
+This repository contains the exercises from the Learn to Program book from Chris Pine.
